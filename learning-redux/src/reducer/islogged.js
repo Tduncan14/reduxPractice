@@ -1,4 +1,4 @@
-const loggedReducer = (state = false , state) => {
+const loggedReducer = (state = false , action) => {
 
 
     switch(action.type){
